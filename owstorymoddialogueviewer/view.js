@@ -25,7 +25,7 @@ window.onload = function () {
                 console.log(xmlData)
                 charName = xmlData.DialogueTree.NameField
                 if (charName != null) {
-                    document.getElementById('viewCharName').textContent = "Viewing Dialogue For Character: " + charName;
+                    document.getElementById('viewCharName').textContent += charName;
                     document.getElementById('viewRawXml').insertAdjacentHTML("beforeend", "<a href='" + url+"'>" + url+  "</a>");
                     document.title = "Outer Wilds Modded Dialogue Viewer: " + charName;
                 }

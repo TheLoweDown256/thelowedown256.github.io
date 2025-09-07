@@ -18,6 +18,34 @@
         ]
     },
     {
+        "modName": "Mod Jam 3 (Base)",
+        "modAuthor": "xen",
+        "dialogues": [
+            {
+                "charName": "Ping",
+                "xmlUrl": "https://raw.githubusercontent.com/xen-42/ow-mod-jam-3-base/refs/heads/main/ModJam3/planets/text/Nomai.xml"
+            },
+            {
+                "charName": "Magistarium Reward",
+                "xmlUrl": "https://raw.githubusercontent.com/xen-42/ow-mod-jam-3-base/refs/heads/main/ModJam3/planets/text/NomaiMemoryCube.xml"
+            },
+            {
+                "charName": "Symbiosis Reward",
+                "xmlUrl": "https://raw.githubusercontent.com/xen-42/ow-mod-jam-3-base/refs/heads/main/ModJam3/planets/text/Anglerfish.xml"
+            }
+        ]
+    },
+    {
+        "modName": "Mod Jam 5 (Base)",
+        "modAuthor": "xen and SBtT",
+        "dialogues": [
+            {
+                "charName": "Ping",
+                "xmlUrl": "https://raw.githubusercontent.com/xen-42/ow-mod-jam-5-base/refs/heads/main/ModJam5/planets/text/Nomai.xml"
+            }
+        ]
+    },
+    {
         "modName": "New Horizons Examples",
         "modAuthor": "xen",
         "dialogues": [

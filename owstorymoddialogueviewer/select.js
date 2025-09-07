@@ -16,7 +16,7 @@ window.onload = function () {
         .then(responseData => {
             for (let i = 0; i < responseData.length; i++) {
                 let modName = responseData[i].modName
-                dropdown.insertAdjacentHTML("beforeend", '<option value="' + modName + '">' + modName + '</option>')
+                dropdown.insertAdjacentHTML("beforeend", '<option value="' + modName + '">' + modName + "  (by: " + responseData[i].modAuthor+')</option>')
 
                 let newDListHTML="<div style='display:none;'>"
                 for (let j = 0; j < responseData[i].dialogues.length; j++) {
