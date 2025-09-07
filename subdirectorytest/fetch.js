@@ -1,5 +1,6 @@
-document.getElementById('fetchButton').addEventListener('click', () => {
-    const url = document.getElementById('urlInput').value;
+window.onload = function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const url = urlParams.get('target');//document.getElementById('urlInput').value;
     const contentDisplay = document.getElementById('rawContent');
 
     if (url) {
@@ -25,4 +26,4 @@ document.getElementById('fetchButton').addEventListener('click', () => {
     } else {
         contentDisplay.textContent = 'Please enter a URL.';
     }
-});
+};

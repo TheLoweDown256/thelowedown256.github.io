@@ -1,0 +1,74 @@
+[
+    {
+        "modName": "Core Collapse",
+        "modAuthor": "TheLoweDown256",
+        "dialogues": [
+            {
+                "charName": "Protea",
+                "xmlUrl": "https://raw.githubusercontent.com/TheLoweDown256/TLDJam5/refs/heads/main/TLDJam5/planets/text/diolouge/PlatformNomai.xml"
+            },
+            {
+                "charName": "Ernesto",
+                "xmlUrl": "https://raw.githubusercontent.com/TheLoweDown256/TLDJam5/refs/heads/main/TLDJam5/planets/text/diolouge/Ernesto.xml"
+            },
+            {
+                "charName": "Geswaldo",
+                "xmlUrl": "https://raw.githubusercontent.com/TheLoweDown256/TLDJam5/refs/heads/main/TLDJam5/planets/text/diolouge/Geswaldo.xml"
+            }
+        ]
+    },
+    {
+        "modName": "New Horizons Examples",
+        "modAuthor": "xen",
+        "dialogues": [
+            {
+                "charName": "Bob",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/Ghostbird.xml"
+            },
+            {
+                "charName": "Bob (Sequestered Luminary)",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/Sequestered%20Luminary/Frigid%20Pygmy/GhostbirdDialogue.xml"
+            },
+            {
+                "charName": "Ernesto",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/Ernesto.xml"
+            },
+            {
+                "charName": "Ernesto (Eye)",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/ErnestoEye.xml"
+            },
+            {
+                "charName": "Ernesto's Cousin",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/ErnestosCousin.xml"
+            },
+            {
+                "charName": "Fred",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/Nomai.xml"
+            },
+            {
+                "charName": "Fred's Cousin",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/Nomai.xml"
+            },
+            {
+                "charName": "Geb",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/Sequestered%20Luminary/Frigid%20Pygmy/Geb.xml"
+            },
+            {
+                "charName": "Geswaldo",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/Geswaldo.xml"
+            },
+            {
+                "charName": "Geswaldo (Angry)",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/Angry%20Geswaldo.xml"
+            },
+            {
+                "charName": "Shale",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/Shale.xml"
+            },
+            {
+                "charName": "Slate",
+                "xmlUrl": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/nh-examples/refs/heads/main/planets/assets/dialogue/Shale.xml"
+            }
+        ]
+    }
+]
