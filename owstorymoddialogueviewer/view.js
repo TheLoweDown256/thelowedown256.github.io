@@ -54,6 +54,8 @@ this.jumpToDNode = function (nodeID) {
                 jumpToDNodeByXMLIndex(i);
             }
         }
+
+        //if we get here now what
         
     }
 };
@@ -76,6 +78,8 @@ this.jumpToDNodeByXMLIndex = function (nodeIndex) {
             console.log("c " +pages[i])
             pagesElement.insertAdjacentHTML("beforeend", "<pre>" + pages[i] +"</pre>")
         }
+
+        //what if no diaoptions??
 
         let dOptions = convertTo1LenArrayIfNormal(node.DialogueOptionsList.DialogueOption);
         buttonsDiv.innerHTML = ""
